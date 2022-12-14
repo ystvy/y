@@ -3,7 +3,6 @@
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":[
 "proxy://do=live&type=txt&ext=aHR0cCUzQS8vMTgzLjkzLjYyLjE3MSUzQTkwODkvVFZCT1gvWEJQL3piLnR4dA=="]}]}],
 "sites": [
-{"key": "csp_Alist1","name": " 微信公众号【电视免VIP】专用接口","type": 3,"api": "csp_Alist","searchable": 1,"quickSearch": 0,"filterable": 0,"ext":"9t$https://drive.9t.ee#"},
 {"key":"乐","name":"乐","type":1,"api":"https://lbapi9.com/api.php/provide/vod/","playUrl":"","categories":[],"quickSearch":0},
 {"key":"速","name":"速","type":0,"api":"http://www.ggmmzy.com:9999/inc/xml","playUrl":"","categories":[],"quickSearch":0,"searchable":0},
 {"key":"番","name":"番","type":1,"api":"http://fhapi9.com/api.php/provide/vod/","playUrl":"","categories":[],"quickSearch":0},
