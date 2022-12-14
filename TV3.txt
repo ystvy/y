@@ -1,6 +1,6 @@
 {
 "storeHouse": [
-{"sourceName":"💚影视仓","sourceUrl":" https://raw.iqiq.io/ystvy/y/main/tvbox.txt"},
+{"sourceName":"💚影视仓","sourceUrl":"https://raw.iqiq.io/ystvy/y/main/tvbox.txt"},
         {
             "sourceName": "☁️云星在线仓库",
             "sourceUrl": "https://maoyingshi.cc/可视TV/云星日记/仓库/api.json"
